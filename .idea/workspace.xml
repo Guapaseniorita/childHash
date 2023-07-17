@@ -1,25 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9186fac-928f-4adf-8a7f-95c3d5e19531" name="Changes" comment="" />
+    <list default="true" id="d9186fac-928f-4adf-8a7f-95c3d5e19531" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Age.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/BodyMassIndex.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/boy/Boy0_0_0ChildListBMI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/boy/BoyBMIReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/boy/ChildListBMIBoy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/girl/ChildListBMIGirl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bodymassindex/girl/GirlBMIReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/child/ChildList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/child/ChildResult.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/child/ReferenceData1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/headСircumference/boy/Boy0_0_0ChildListHeadCirc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/headСircumference/boy/BoyHeadCircReferenceData1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/headСircumference/boy/ChildListHeadCircBoy1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/headСircumference/girl/ChildListHeadCircGirl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/headСircumference/girl/GirlHeadCircReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/height/boy/Boy0_0_0ChildListHeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/height/boy/BoyHeightReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/height/boy/ChildListHeightBoy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/height/girl/ChildListHeightGirl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/height/girl/GirlHeightReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/Optimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/bmi/BoyBMINorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/bmi/GirlBMINorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/headcirc/BoyHeadCircNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/headcirc/GirlHeadCircNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/height/BoyHeightNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/height/GirlHeightNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/weight/BoyWeightNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/weight/BoyZCriterion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/weight/GirlWeightNorma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optimal/weight/GirlZCriterion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/boy/Boy0_0_0ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/boy/BoyWeightReferenceData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/boy/ChildListWeightBoy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/ChildListWeightGirl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_0ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_1ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_2ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_3ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_4ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/Girl0_0_5ChildListWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weight/girl/GirlWeightReferenceData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/childHash.iml" beforeDir="false" afterPath="$PROJECT_DIR$/childHash.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoyOneWeekChildListWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoyWeightReferenceData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoyZeroWeekChildListWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChildList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChildResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2RpCkiwbP6ckfqM03LO8DjscLPO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yulia/Desktop/Программирование/Проекты/Java/childHash/src/weight/boy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/weight/boy" />
+      <recent name="$PROJECT_DIR$/src/weight/girl" />
+      <recent name="$PROJECT_DIR$/src/height/boy" />
+      <recent name="$PROJECT_DIR$/src/height" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/headСircumference/boy" />
+      <recent name="$PROJECT_DIR$/src/height/boy" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="headСircumference.girl" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="optimal.weight.boy" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="weight.girl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="optimal.bmi.boy" />
+      <recent name="norma.weight.boy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="childHash" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="childHash" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
